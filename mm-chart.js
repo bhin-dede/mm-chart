@@ -6,7 +6,7 @@ Module.register("mm-chart", {
     },
 
     getScripts () {
-        return [`modules/${this.name}/node_modules/chart.js/dist/chart.umd.js`];
+        return [`chart.umd.js`];
     },
 
     start () {
