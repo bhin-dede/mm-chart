@@ -1,6 +1,6 @@
 {
     "name": "mm-chart",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A MagicMirror module for displaying M-Charts.",
     "main": "mm-chart.js",
     "dependencies": {
